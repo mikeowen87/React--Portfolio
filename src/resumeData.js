@@ -17,7 +17,7 @@ export default {
         },
        
       ],
-    "aboutme":"I am currently finishing up my Full Stack Web Developing program through Case Western Reserve University and am looking forward to becoming a future web developer and change my career field.",
+    "aboutme": "I am currently finishing up my Full Stack Web Developing program through Case Western Reserve University and am looking forward to becoming a future web developer and change my career field.",
     "address":"Highland Heights, OH 44143",
     "website":"",
     "education":[
@@ -76,7 +76,7 @@ export default {
      {
         "name":"TurnUp",
         "description":"App that allows users to find and sign up for pop up shop events.",  
-        "imgurl":""
+        "imgurl":"https://turnuppopups.herokuapp.com/"
     }
       ],
 
