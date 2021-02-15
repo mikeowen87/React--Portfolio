@@ -1,7 +1,7 @@
 export default {
     "imagebaseurl":"",
     "name": "Michael Owen",
-    "role": "Full Stack Web Developer",
+    "role": "Full Stack Web Developer" ,
     "linkedinId":"Your LinkedIn Id",
         "roleDescription": "Recently completed a Full-Stack Coding Bootcamp through Case Western Reserve University. Looking to grow into the web developing world.",
     "socialLinks":[
@@ -17,7 +17,7 @@ export default {
         },
        
       ],
-    "aboutme": "I am currently finishing up my Full Stack Web Developing program through Case Western Reserve University and am looking forward to becoming a future web developer and change my career field.",
+    "aboutme": "I recently finished up my Full Stack Web Developing program through Case Western Reserve University and am looking forward to becoming a future web developer and change my career field.",
     "address":"Highland Heights, OH 44143",
     "website":"",
     "education":[
