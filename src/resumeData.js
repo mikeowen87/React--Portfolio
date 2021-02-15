@@ -1,4 +1,4 @@
-let resumeData = {
+export default {
     "imagebaseurl":"",
     "name": "Michael Owen",
     "role": "Full Stack Web Developer",
